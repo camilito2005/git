@@ -6,8 +6,19 @@
     <title>a</title>
 </head>
 <body>
-    <p>pruebas de cambio de rama camilob</p>
-    <p>cambio de la rama camilo a master</p>
-    <h1>hl</h1>
+    <div>
+        <h4>tabla</h4>
+        <table>
+            <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+            </tr>
+            </thead>
+            <tr>
+                
+            </tr>
+        </table>
+    </div>
 </body>
 </html>

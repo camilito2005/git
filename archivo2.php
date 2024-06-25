@@ -3,11 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>a</title>
 </head>
 <body>
-    <p>pruebas de cambio de rama camilob</p>
-    <p>cambio de la rama camilo a master</p>
-    
+    <h4>nada</h4>
+    <p>camilo</p>
+    <p>marrugo</p>
+    <p>barrios</p>
+    <div>
+        <table>
+            <thead>
+
+            </thead>
+            <tbody>
+                
+            </tbody>
+        </table>
+    </div>
 </body>
 </html>

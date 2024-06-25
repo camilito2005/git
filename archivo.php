@@ -6,6 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-    <h4></h4>
+    <div>
+        <h4>formulario</h4>
+        <form action="" method="post">
+            <input type="text" name="nombre" id="nombre" placeholder="Nombre">
+            <input type="text" name="apellido" id="apellido" placeholder="Apellido">
+            <input type="submit" value="Enviar">
+        </form>
+    </div>
 </body>
 </html>

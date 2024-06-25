@@ -6,18 +6,18 @@
     <title>a</title>
 </head>
 <body>
-    <h4>nada</h4>
-    <p>camilo</p>
-    <p>marrugo</p>
-    <p>barrios</p>
     <div>
+        <h4>tabla</h4>
         <table>
             <thead>
-
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+            </tr>
             </thead>
-            <tbody>
+            <tr>
                 
-            </tbody>
+            </tr>
         </table>
     </div>
 </body>

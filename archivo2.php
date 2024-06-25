@@ -6,19 +6,6 @@
     <title>a</title>
 </head>
 <body>
-    <h4>nada</h4>
-    <p>camilo</p>
-    <p>marrugo</p>
-    <p>barrios</p>
-    <div>
-        <table>
-            <thead>
-
-            </thead>
-            <tbody>
-                
-            </tbody>
-        </table>
-    </div>
+    <p>hl</p>
 </body>
 </html>
